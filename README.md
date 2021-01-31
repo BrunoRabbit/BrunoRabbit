@@ -11,6 +11,5 @@
 - <code><img width="25" height="35" src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/141px-Java_programming_language_logo.svg.png"></code>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRabbit&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRabbit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRabbit)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BrunoRabbit&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
