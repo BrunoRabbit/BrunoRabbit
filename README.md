@@ -11,5 +11,3 @@
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoRabbit&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRabbit)](https://github.com/anuraghazra/github-readme-stats)
-
-*As principais linguagens de programação não fazem declarações sobre habilidades pessoais ou similares, é apenas uma figura-chave com base nas estatísticas do GitHub do usuário indicando a frequência com que cada uma foi utilizada.*
