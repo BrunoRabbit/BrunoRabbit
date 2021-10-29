@@ -20,6 +20,6 @@
 
   <div>
       <a href="https://github.com/BrunoRabbit">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoRabbit&theme=dark&show_icons=true" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRabbit&layout=compact&theme=dark" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BrunoRabbit&theme=dark&show_icons=true" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRabbit&layout=compact&theme=dark" />
   </div>
