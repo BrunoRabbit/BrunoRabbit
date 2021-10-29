@@ -1,10 +1,9 @@
 ### Oi, meu nome é Bruno ! 👋
-:date: Tenho 20 anos!
-<br>
+:date: Tenho 20 anos! <br>
 :green_book: Estudante de Analise e Desenvolvimento de Sistemas (05/06)!<br>
 📖 Aberto a novas tecnologias, com foco no aprendizado e na produtividade!
 
-
+  ##
 ### Linguagens com conhecimento
 <div>
  <img align="center" height="30" weight="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -17,7 +16,7 @@
   
   </div>
 
-  ##
+  <br>
 
   <div>
       <a href="https://github.com/BrunoRabbit">
