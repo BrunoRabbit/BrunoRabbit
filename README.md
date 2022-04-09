@@ -1,5 +1,5 @@
 ### Oi, meu nome é Bruno ! 👋
-:date: Tenho 20 anos! <br>
+:date: Tenho 21 anos! <br>
 :green_book: Estudante de Analise e Desenvolvimento de Sistemas (05/06)!<br>
 📖 Aberto a novas tecnologias, com foco no aprendizado e na produtividade!
 
