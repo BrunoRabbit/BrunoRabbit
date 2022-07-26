@@ -1,6 +1,6 @@
 ### Oi, meu nome é Bruno ! 👋
 :date: Tenho 21 anos! <br>
-:green_book: Estudante de Analise e Desenvolvimento de Sistemas (06/06)!<br>
+:green_book: Formado em Analise e Desenvolvimento de Sistemas pela [FATEC Guaratinguetá](https://www.linkedin.com/company/fatec-guaratinguet%C3%A1/)!<br>
 📖 Aberto a novas tecnologias, com foco no aprendizado e na produtividade!
 
   ##
