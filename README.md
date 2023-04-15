@@ -1,10 +1,10 @@
-### Oi, meu nome é Bruno ! 👋
-:date: Tenho 22 anos! <br>
-:green_book: Formado em Analise e Desenvolvimento de Sistemas pela [FATEC Guaratinguetá](https://www.linkedin.com/company/fatec-guaratinguet%C3%A1/)!<br>
-📖 Aberto a novas tecnologias e oportunidades, com foco no aprendizado e na produtividade!
+### Hi, my name is Bruno ! 👋
+:date: I'm 22 years old! <br>
+:green_book: Graduated in Systems Analysis and Development from [FATEC Guaratinguetá](https://www.linkedin.com/company/fatec-guaratinguet%C3%A1/)!<br>
+📖 Open to new technologies and opportunities, with a focus on learning and productivity!
 
   ##
-### Linguagens com conhecimento
+### Languages with knowledge
 <div>
  <img align="center" height="30" weight="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="center" height="30" weight="50" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
